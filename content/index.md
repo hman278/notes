@@ -1,7 +1,11 @@
-
+---
 title: Welcome!
+draft: true
+---
+
 
 I do not know what I am doing.
 
 This is a blank Quartz installation.
 See the [documentation](https://quartz.jzhao.xyz) for how to get started.
+
