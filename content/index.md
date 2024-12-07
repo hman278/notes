@@ -2,6 +2,8 @@
 title: My Notes
 ---
 
+title: 
+
 I do not know what I am doing.
 
 This is a blank Quartz installation.
