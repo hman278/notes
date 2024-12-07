@@ -1,8 +1,5 @@
----
-title: My Notes
----
 
-title: 
+title: Welcome!
 
 I do not know what I am doing.
 
